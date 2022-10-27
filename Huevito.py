@@ -1,1 +1,2 @@
 print("huevito")
+print("meñique")
